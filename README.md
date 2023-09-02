@@ -15,8 +15,8 @@
 **1.Python environment:** recommending using Conda package manager to install
 
 ```python
-conda create -n d2gnas python=3.7
-source activate d2gnas
+conda create -n autodm2 python=3.7
+source activate autodm2
 ```
 
 **2.Python package:**
